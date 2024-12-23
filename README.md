@@ -35,6 +35,9 @@ I'm excited to share my latest Power BI project, where I developed a comprehensi
 <image src="https://github.com/Vijay-soundhariya/ATM-Transaction-Analysis-Dashboard/blob/main/atm%20dashboard.png">
 
 
+<image src="https://github.com/Vijay-soundhariya/ATM-Transaction-Analysis-Dashboard/blob/main/details.png">
+
+
 
 💡**Key Insights:** Uncovered The analysis provided valuable insights such as:
 
