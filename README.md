@@ -27,6 +27,9 @@ I'm excited to share my latest Power BI project, where I developed a comprehensi
  <image src="https://github.com/Vijay-soundhariya/ATM-Transaction-Analysis-Dashboard/blob/main/ATM%20analytics%20template.png">
 
 
+**Dashboard pictures**
+
+
 💡**Key Insights:** Uncovered The analysis provided valuable insights such as:
 
   **>** **State-wise Revenue:** Identified top-performing states in terms of ATM revenue
