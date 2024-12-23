@@ -29,7 +29,7 @@ I'm excited to share my latest Power BI project, where I developed a comprehensi
 
 **Dashboard pictures**
 
-<image src="
+<image src="https://github.com/Vijay-soundhariya/ATM-Transaction-Analysis-Dashboard/blob/main/atm%20home.png">
 
 💡**Key Insights:** Uncovered The analysis provided valuable insights such as:
 
