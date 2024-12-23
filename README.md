@@ -29,6 +29,7 @@ I'm excited to share my latest Power BI project, where I developed a comprehensi
 
 **Dashboard pictures**
 
+<image src="
 
 💡**Key Insights:** Uncovered The analysis provided valuable insights such as:
 
