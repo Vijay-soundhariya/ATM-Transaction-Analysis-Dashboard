@@ -10,7 +10,7 @@ I'm excited to share my latest Power BI project, where I developed a comprehensi
  **key performance indicators:** Created KPI's such as average monthly transactions, revenue,uptime, Gross profit, gross profit percentage and total cost
 
  **Dashboard Template:** Created dashboard template using figma(https://www.figma.com/)
- <image src="
+ <image src="https://github.com/Vijay-soundhariya/ATM-Transaction-Analysis-Dashboard/blob/main/ATM%20analytics%20template.png">
 💡**Key Insights:** Uncovered The analysis provided valuable insights such as:
 
   **>** **State-wise Revenue:** Identified top-performing states in terms of ATM revenue
